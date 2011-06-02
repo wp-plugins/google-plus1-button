@@ -23,7 +23,7 @@ Plugin to add manually or automatically Google +1 button to wordpress contents.
 
 = Is there a shorttag to be used inside post content? =
 
-Yes, simply configure plugin position to "shortcode", and use [gplusbutton] tag inside post
+Yes, simply configure plugin position to "shortcode", and use [ gplusbutton ] tag inside post
 
 = How can I configure language? =
 
