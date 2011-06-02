@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Google +1 Button Advanced===
 Contributors: webgrafia
 Donate link: http://marbu.org/marbu/donate/
 Tags: google +1, social
