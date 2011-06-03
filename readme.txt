@@ -1,7 +1,7 @@
 === Google +1 Button Advanced ===
 Contributors: webgrafia
 Donate link: http://marbu.org/marbu/donate/
-Tags: google +1, social
+Tags: google +1, social, +1, like, google
 Requires at least: 3.0.1
 Tested up to: 3.1.3
 Stable tag: 1.1
