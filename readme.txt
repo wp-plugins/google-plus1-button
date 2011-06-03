@@ -4,7 +4,7 @@ Donate link: http://marbu.org/marbu/donate/
 Tags: google +1, social
 Requires at least: 3.0.1
 Tested up to: 3.1.3
-Stable tag: 1.0
+Stable tag: 1.1
 
 Add automatically Google +1 button to wp post or pages.
 
