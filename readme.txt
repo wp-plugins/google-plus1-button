@@ -8,6 +8,11 @@ Stable tag: 1.1
 
 Add automatically Google +1 button to wp post or pages.
 
+Choose where to add: top, bottom, both, manually in theme or in post/pagecontent
+
+Language is automatically configured
+
+* fixed  bug in save options
 == Description ==
 
 Plugin to add manually or automatically Google +1 button to wordpress contents. Configurable
@@ -33,3 +38,14 @@ language is automatically configured with wp configuration
 1. Configuration panel
 
 
+== Changelog ==
+
+= 1.1 =
+* fixed bug in save options
+* added checkbox for activation
+
+== Upgrade Notice ==
+
+= 1.1 =
+
+* upgrade to fix bug in save options
